@@ -1,0 +1,1 @@
+# sm-rag-ollama-fsq-assistant
